@@ -1,7 +1,7 @@
 # Remote Backend 
 terraform {
   cloud {
-    organization = "wokosun1"
+    organization = "wokosun"
 
     workspaces {
       name = "terraform-test-gha"
